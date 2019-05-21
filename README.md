@@ -1,2 +1,2 @@
 # smallLibrary
-Java ( this is not a good project) but I tried 
+not a good project but at least tried 
